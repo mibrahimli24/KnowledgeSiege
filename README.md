@@ -1,4 +1,5 @@
 Knowledge Siege 🏰
+
 Knowledge Siege is a desktop-based strategy/quiz game built using Java Swing. The project focuses on implementing core Object-Oriented Programming (OOP) principles, event-driven programming, and a dynamic graphical user interface.
 
 🚀 Features
