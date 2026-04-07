@@ -1,0 +1,10 @@
+(i)A class is a blueprint for creating objects.
+(i)An object is an instance of a class.
+(i)Encapsulation is the bundling of data and methods that operate on that data within a single unit.
+(i)Inheritance allows one class to inherit properties and behaviors from another class.
+(i)Polymorphism allows objects of different classes to be treated as objects of a common superclass.
+(i)Abstraction hides complex implementation details and shows only the necessary features of an object.
+(i)A constructor is a special method used to initialize objects.
+(i)Access modifiers control the visibility of classes, methods, and fields.
+(i)The 'this' keyword refers to the current instance of the class.
+(i)Methods are functions defined inside a class that perform specific tasks.

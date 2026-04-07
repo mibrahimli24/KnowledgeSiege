@@ -1,0 +1,11 @@
+Maqa,1,150
+Maqa,2,150
+Maqa,3,150
+Maqa,4,0
+Maqa,5,150
+Maqa,6,150
+ulvi,1,150
+Maqa,7,150
+Omar,1,150
+Omar,2,70
+Maqa,8,150

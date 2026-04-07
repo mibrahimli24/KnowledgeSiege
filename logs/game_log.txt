@@ -1,0 +1,187 @@
+[2025-05-25 21:20] - Player Maqa started Level 1
+[2025-05-25 21:20] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-25 21:20] - Player Maqa collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-25 21:20] - Player Maqa collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-25 21:20] - Player Maqa collected info from INFO: +10 points (Score: 30 -> 40)
+[2025-05-25 21:20] - Player Maqa collected info from INFO: +10 points (Score: 40 -> 50)
+[2025-05-25 21:20] - Player Maqa started Level 2
+[2025-05-25 21:20] - Player Maqa collected info from INFO: +10 points (Score: 50 -> 60)
+[2025-05-25 21:20] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-25 21:20] - Player Maqa collected info from INFO: +10 points (Score: 60 -> 70)
+[2025-05-25 21:21] - Player Maqa collected info from INFO: +10 points (Score: 70 -> 80)
+[2025-05-25 21:21] - Player Maqa collected info from INFO: +10 points (Score: 80 -> 90)
+[2025-05-25 21:21] - Player Maqa collected info from INFO: +10 points (Score: 90 -> 100)
+[2025-05-25 21:21] - Player Maqa started Level 3
+[2025-05-25 21:21] - Player Maqa hit by QUESTION: -10 health (Health: 90 -> 80)
+[2025-05-25 21:21] - Player Maqa collected info from INFO: +10 points (Score: 100 -> 110)
+[2025-05-25 21:21] - Player Maqa hit by QUESTION: -10 health (Health: 80 -> 70)
+[2025-05-25 21:21] - Player Maqa collected info from INFO: +10 points (Score: 110 -> 120)
+[2025-05-25 21:21] - Player Maqa collected info from INFO: +10 points (Score: 120 -> 130)
+[2025-05-25 21:21] - Player Maqa collected info from INFO: +10 points (Score: 130 -> 140)
+[2025-05-25 21:21] - Player Maqa collected info from INFO: +10 points (Score: 140 -> 150)
+[2025-05-25 21:21] - Game Completed by Maqa with final score: 150
+[2025-05-26 19:57] - Player Maqa started Level 1
+[2025-05-26 19:57] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-26 19:58] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-26 19:58] - Player Maqa started Level 1
+[2025-05-26 19:58] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-26 19:58] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-26 19:59] - Player Maqa collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-26 19:59] - Player Maqa hit by QUESTION: -10 health (Health: 90 -> 80)
+[2025-05-26 19:59] - Player Maqa hit by QUESTION: -10 health (Health: 80 -> 70)
+[2025-05-26 20:04] - Player Maqa started Level 1
+[2025-05-26 20:04] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-26 20:05] - Player Maqa started Level 1
+[2025-05-26 20:05] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-26 20:05] - Player Maqa collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-26 20:05] - Player Maqa collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-26 20:38] - Player Maqa started Level 1
+[2025-05-26 20:38] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-26 20:38] - Player Maqa hit by QUESTION: -10 health (Health: 90 -> 80)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 30 -> 40)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 40 -> 50)
+[2025-05-26 20:38] - Player Maqa started Level 2
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 50 -> 60)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 60 -> 70)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 70 -> 80)
+[2025-05-26 20:38] - Player Maqa hit by QUESTION: -10 health (Health: 80 -> 70)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 80 -> 90)
+[2025-05-26 20:38] - Player Maqa collected info from INFO: +10 points (Score: 90 -> 100)
+[2025-05-26 20:38] - Player Maqa started Level 3
+[2025-05-26 20:39] - Player Maqa collected info from INFO: +10 points (Score: 100 -> 110)
+[2025-05-26 20:39] - Player Maqa collected info from INFO: +10 points (Score: 110 -> 120)
+[2025-05-26 20:39] - Player Maqa collected info from INFO: +10 points (Score: 120 -> 130)
+[2025-05-26 20:39] - Player Maqa collected info from INFO: +10 points (Score: 130 -> 140)
+[2025-05-26 20:39] - Player Maqa collected info from INFO: +10 points (Score: 140 -> 150)
+[2025-05-26 20:39] - Game Completed by Maqa with final score: 150
+[2025-05-26 21:35] - Player ulvi started Level 1
+[2025-05-26 21:35] - Player ulvi collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-26 21:35] - Player ulvi collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 30 -> 40)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 40 -> 50)
+[2025-05-26 21:36] - Player ulvi started Level 2
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 50 -> 60)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 60 -> 70)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 70 -> 80)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 80 -> 90)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 90 -> 100)
+[2025-05-26 21:36] - Player ulvi started Level 3
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 100 -> 110)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 110 -> 120)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 120 -> 130)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 130 -> 140)
+[2025-05-26 21:36] - Player ulvi collected info from INFO: +10 points (Score: 140 -> 150)
+[2025-05-26 21:36] - Game Completed by ulvi with final score: 150
+[2025-05-26 21:39] - Player Maqa started Level 1
+[2025-05-26 21:39] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-26 21:39] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-27 23:22] - Player Maqa started Level 1
+[2025-05-27 23:23] - Player Maqa started Level 1
+[2025-05-27 23:23] - Player Maqa started Level 1
+[2025-05-27 23:23] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-27 23:23] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-27 23:23] - Player Maqa hit by QUESTION: -10 health (Health: 90 -> 80)
+[2025-05-27 23:23] - Player Maqa hit by QUESTION: -10 health (Health: 80 -> 70)
+[2025-05-27 23:23] - Player Maqa collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-27 23:23] - Player Maqa collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-27 23:23] - Player Maqa collected info from INFO: +10 points (Score: 30 -> 40)
+[2025-05-27 23:23] - Player Maqa collected info from INFO: +10 points (Score: 40 -> 50)
+[2025-05-27 23:23] - Player Maqa started Level 2
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 50 -> 60)
+[2025-05-27 23:24] - Player Maqa started Level 1
+[2025-05-27 23:24] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-27 23:24] - Player Maqa hit by QUESTION: -10 health (Health: 90 -> 80)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-27 23:24] - Player Maqa hit by QUESTION: -10 health (Health: 80 -> 70)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 30 -> 40)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 40 -> 50)
+[2025-05-27 23:24] - Player Maqa started Level 2
+[2025-05-27 23:24] - Player Maqa hit by QUESTION: -10 health (Health: 70 -> 60)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 50 -> 60)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 60 -> 70)
+[2025-05-27 23:24] - Player Maqa hit by QUESTION: -10 health (Health: 60 -> 50)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 70 -> 80)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 80 -> 90)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 90 -> 100)
+[2025-05-27 23:24] - Player Maqa started Level 3
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 100 -> 110)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 110 -> 120)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 120 -> 130)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 130 -> 140)
+[2025-05-27 23:24] - Player Maqa collected info from INFO: +10 points (Score: 140 -> 150)
+[2025-05-27 23:24] - Game Completed by Maqa with final score: 150
+[2025-05-27 23:43] - Player Omar started Level 1
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 30 -> 40)
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 40 -> 50)
+[2025-05-27 23:43] - Player Omar started Level 2
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 50 -> 60)
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 60 -> 70)
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 70 -> 80)
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 80 -> 90)
+[2025-05-27 23:43] - Player Omar collected info from INFO: +10 points (Score: 90 -> 100)
+[2025-05-27 23:43] - Player Omar started Level 3
+[2025-05-27 23:44] - Player Omar collected info from INFO: +10 points (Score: 100 -> 110)
+[2025-05-27 23:44] - Player Omar collected info from INFO: +10 points (Score: 110 -> 120)
+[2025-05-27 23:44] - Player Omar collected info from INFO: +10 points (Score: 120 -> 130)
+[2025-05-27 23:44] - Player Omar collected info from INFO: +10 points (Score: 130 -> 140)
+[2025-05-27 23:44] - Player Omar collected info from INFO: +10 points (Score: 140 -> 150)
+[2025-05-27 23:44] - Game Completed by Omar with final score: 150
+[2025-05-27 23:49] - Player Omar started Level 1
+[2025-05-27 23:49] - Player Omar collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-27 23:49] - Player Omar collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 90 -> 80)
+[2025-05-27 23:49] - Player Omar collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-27 23:49] - Player Omar collected info from INFO: +10 points (Score: 30 -> 40)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 80 -> 70)
+[2025-05-27 23:49] - Player Omar collected info from INFO: +10 points (Score: 40 -> 50)
+[2025-05-27 23:49] - Player Omar started Level 2
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 70 -> 60)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 60 -> 50)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 50 -> 40)
+[2025-05-27 23:49] - Player Omar collected info from INFO: +10 points (Score: 50 -> 60)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 40 -> 30)
+[2025-05-27 23:49] - Player Omar collected info from INFO: +10 points (Score: 60 -> 70)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 30 -> 20)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 20 -> 10)
+[2025-05-27 23:49] - Player Omar hit by QUESTION: -10 health (Health: 10 -> 0)
+[2025-05-27 23:49] - Game Over for Omar with final score: 70
+[2025-05-28 00:04] - Player Maqa started Level 1
+[2025-05-28 00:04] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-29 00:47] - Player Maqa started Level 1
+[2025-05-29 00:47] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-29 00:53] - Player Maqa started Level 1
+[2025-05-29 00:53] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-29 00:53] - Player Maqa collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-29 01:29] - Player Maqa started Level 1
+[2025-05-30 09:52] - Player Maqa started Level 1
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 0 -> 10)
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 10 -> 20)
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 20 -> 30)
+[2025-05-30 09:52] - Player Maqa hit by QUESTION: -10 health (Health: 100 -> 90)
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 30 -> 40)
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 40 -> 50)
+[2025-05-30 09:52] - Player Maqa started Level 2
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 50 -> 60)
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 60 -> 70)
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 70 -> 80)
+[2025-05-30 09:52] - Player Maqa collected info from INFO: +10 points (Score: 80 -> 90)
+[2025-05-30 09:53] - Player Maqa collected info from INFO: +10 points (Score: 90 -> 100)
+[2025-05-30 09:53] - Player Maqa started Level 3
+[2025-05-30 09:53] - Player Maqa collected info from INFO: +10 points (Score: 100 -> 110)
+[2025-05-30 09:53] - Player Maqa collected info from INFO: +10 points (Score: 110 -> 120)
+[2025-05-30 09:53] - Player Maqa collected info from INFO: +10 points (Score: 120 -> 130)
+[2025-05-30 09:53] - Player Maqa hit by QUESTION: -10 health (Health: 90 -> 80)
+[2025-05-30 09:53] - Player Maqa collected info from INFO: +10 points (Score: 130 -> 140)
+[2025-05-30 09:53] - Player Maqa hit by QUESTION: -10 health (Health: 80 -> 70)
+[2025-05-30 09:53] - Player Maqa collected info from INFO: +10 points (Score: 140 -> 150)
+[2025-05-30 09:53] - Game Completed by Maqa with final score: 150

@@ -1,0 +1,10 @@
+(i)Method overriding occurs when a subclass provides a specific implementation of a method that is already defined in its superclass.
+(i)Method overloading allows multiple methods with the same name but different parameters in the same class.
+(i)Overriding changes the behavior of a method in a subclass, while overloading provides multiple methods with the same name but different signatures.
+(i)An abstract class cannot be instantiated and is meant to be subclassed.
+(i)An interface defines a contract for classes to implement, containing method signatures without implementations.
+(i)Yes, an abstract class can have a constructor, which is called when a subclass is instantiated.
+(i)Abstract classes can have both abstract and concrete methods, while interfaces can only have abstract methods (until Java 8, which introduced default methods).
+(i)Composition is a way to achieve code reuse by composing objects from other objects, rather than inheriting from them.
+(i)Composition is generally preferred over inheritance because it promotes loose coupling and is more flexible.
+(i)Static methods and variables belong to the class itself rather than to any instance of the class.

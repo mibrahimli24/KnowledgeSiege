@@ -1,0 +1,10 @@
+(Q)What is method overriding in Java?
+(Q)What is method overloading in Java?
+(Q)What is the difference between overriding and overloading?
+(Q)What is an abstract class in Java?
+(Q)What is an interface in Java?
+(Q)Can an abstract class have a constructor?
+(Q)What is the difference between abstract classes and interfaces?
+(Q)What is composition in OOP?
+(Q)What is the difference between composition and inheritance?
+(Q)What are static methods and variables in Java?

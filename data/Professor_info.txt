@@ -1,0 +1,10 @@
+(i)The Singleton pattern ensures that a class has only one instance and provides a global point of access to it.
+(i)The Factory pattern provides an interface for creating objects in a superclass but allows subclasses to alter the type of objects that will be created.
+(i)The Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+(i)Generics in Java allow for type-safe collections and methods that can work with any data type.
+(i)Exceptions in Java are handled using try-catch blocks, where you can catch and handle specific exceptions.
+(i)Multithreading in Java allows multiple threads to run concurrently, which can improve performance but also introduces complexity with synchronization.
+(i)Reflection in Java allows you to inspect and manipulate classes, methods, and fields at runtime.
+(i)Annotations in Java are metadata that can be used by the compiler or at runtime to provide additional information about code.
+(i)The 'final' keyword can be used to make classes, methods, or variables immutable or non-overridable.
+(i)Checked exceptions must be declared in a method's throws clause or caught within the method, while unchecked exceptions do not require this.

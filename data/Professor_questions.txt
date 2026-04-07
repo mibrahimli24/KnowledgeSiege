@@ -1,0 +1,10 @@
+(Q)What is the Singleton design pattern?
+(Q)What is the Factory design pattern?
+(Q)What is the Observer design pattern?
+(Q)What are generics in Java?
+(Q)How do you handle exceptions in Java?
+(Q)What is multithreading in Java?
+(Q)What is reflection in Java?
+(Q)What are annotations in Java?
+(Q)What is the purpose of the 'final' keyword in Java?
+(Q)What is the difference between checked and unchecked exceptions in Java?

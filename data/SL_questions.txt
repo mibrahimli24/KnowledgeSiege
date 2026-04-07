@@ -1,0 +1,10 @@
+(Q)What is a class in OOP?
+(Q)What is an object in OOP?
+(Q)What is the difference between a class and an object?
+(Q)What is encapsulation in OOP?
+(Q)What is inheritance in OOP?
+(Q)What is polymorphism in OOP?
+(Q)What is abstraction in OOP?
+(Q)What is a constructor in Java?
+(Q)What are access modifiers in Java?
+(Q)What is the purpose of the 'this' keyword in Java?
